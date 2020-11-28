@@ -10,7 +10,7 @@
 * [Shirino](https://discord.com/oauth2/authorize?client_id=672076488958541835&permissions=8&scope=bot)
 * Закоди на наш дискорд сервер)
 
-[![Discord](https://discordapp.com/api/guilds/639778634940547082/widget.png)](https://discord.gg/zfH4TRS)
+[![Discord](https://discordapp.com/api/guilds/639778634940547082/widget.png)](https://discord.gg/r6VcazG)
  
  <div style="width: 50%">
 <a href="https://github.com/Koteich-dev">
