@@ -3,7 +3,7 @@
 Добро пожаловать в мой профиль на github, тут ты можешь посмотреть информацию о моих проектах.
 
 * Изучаемые языки программирования
-[!https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png]
+[!JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png])
 * Все проекты [тут](https://github.com/World-of-the-cat/)
 
 **Чуть ниже ты можешь посмотреть информацию о моих проектах**
