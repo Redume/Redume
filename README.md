@@ -9,10 +9,7 @@
 
 * Все проекты [тут](https://github.com/World-of-the-cat/)
 
-**Чуть ниже ты можешь посмотреть информацию о моих проектах**
-* Заходи на наш дискорд сервер)
-
-[![Discord](https://discordapp.com/api/guilds/639778634940547082/widget.png)](https://discord.gg/skWQrNgXtS)
+[![Мой discord сервер](https://discordapp.com/api/guilds/639778634940547082/widget.png)](https://discord.gg/skWQrNgXtS)
  
  <div style="width: 50%">
 <a href="https://github.com/Koteich-dev">
