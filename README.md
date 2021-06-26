@@ -10,6 +10,6 @@
 * Мой [![Discord](https://discordapp.com/api/guilds/787320846405599273/widget.png)](https://discord.gg/skWQrNgXtS) сервер
  
  <div style="width: 50%">
-<a href="https://github.com/Koteich-dev">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=koteich-dev&show_icons=true&include_all_commits=true&theme=synthwave" alt="koteich's github stats"
+<a href="https://github.com/Redume">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Redume&show_icons=true&include_all_commits=true&theme=synthwave" alt="koteich's github stats"
 </a>
