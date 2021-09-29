@@ -9,3 +9,7 @@
 
 * Мой [Discord](https://discord.gg/skWQrNgXtS) сервер
 * Мой Discord — Redume#0754
+ <div style="width: 50%">
+<a href="https://github.com/Redume">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Redume&show_icons=true&include_all_commits=true&theme=synthwave" alt="Redume's github stats"
+</a>
