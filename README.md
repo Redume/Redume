@@ -1,9 +1,6 @@
 Peace ✌️
 
-### Языки программирования которые я как то знаю
-
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="40">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">  <img height="40">
+Пишу проекты на <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/nodejs.svg" height=20> **Node.js** или <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/python.svg" height=20> **Python**, изучаю язык программирования <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/golang.svg" height=20> **GoLang**, в качестве базы данных использую <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/postgresql.svg" height=20> **PostgreSQL**
 
 ### Статистика
 
