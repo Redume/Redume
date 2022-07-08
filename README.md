@@ -2,6 +2,9 @@ Peace ✌️
 
 Пишу проекты на <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/nodejs.svg" height=20> **Node.js** или <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/python.svg" height=20> **Python**, изучаю язык программирования <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/golang.svg" height=20> **GoLang**, в качестве базы данных использую <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/postgresql.svg" height=20> **PostgreSQL**
 
+
+<a href="https://redume.live" content="text/html; charset=utf-8"><img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/website.svg" height=35></a>
+
 ### Статистика
 
 ![](https://raw.githubusercontent.com/Redume/github-stats/master/generated/overview.svg#gh-dark-mode-only)
