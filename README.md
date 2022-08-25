@@ -4,6 +4,6 @@ I write projects in **Node.js** <img src="https://raw.githubusercontent.com/Redu
 
 ---
 
-Q: Why is project "X" not being updated? Or does another one start updating/appearing altogether?
+Q: Why is project "X" not being updated? Or does another one start updating / appearing altogether?
 
 A: Either I got tired of one project and I wanted to do another, or I lost the motivation to update or maintain the project.
