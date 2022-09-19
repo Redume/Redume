@@ -1,6 +1,6 @@
 Peace ✌️
 
-I write projects in **Node.js** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/nodejs.svg" alt="JavaScript" height=20> and **Python** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/python.svg" alt="Python" height=20>, I'm learning a programming language **GoLang** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/golang.svg" alt="GoLang" height=20>, as a database I use **PostgreSQL** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/postgresql.svg" alt="PostgreSQL" height=20>
+I write projects in **JavaScript** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/javascript.svg" alt="JavaScript" height=20>, **Python** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/python.svg" alt="Python" height=20> and **GoLang** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/golang.svg" alt="GoLang" height=20>, study the layout of websites
 
 ---
 
