@@ -6,5 +6,8 @@ I write projects in **JavaScript** <img src="https://raw.githubusercontent.com/R
 
 <details> 
   <summary>Why is project "X" not being updated? Or does another one start updating / appearing altogether?</summary>
+
+###
+
 Either I got tired of one project and I wanted to do another, or I lost the motivation to update or maintain the project.
 </details>
