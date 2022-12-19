@@ -11,3 +11,11 @@ I write projects in **JavaScript** <img src="https://raw.githubusercontent.com/R
 
 Either I got tired of one project and I wanted to do another, or I lost the motivation to update or maintain the project.
 </details>
+
+<details>
+  <summary>Statistic my account</summary>
+
+###
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Redume&theme=dracula)
+</details>
