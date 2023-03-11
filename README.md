@@ -1,6 +1,6 @@
 Peace ✌️
 
-I Programmer. Desktop & Web developer. Write projects in **JavaScript** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/javascript.svg" alt="JavaScript" height=20>, **Python** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/python.svg" alt="Python" height=20>, **GoLang** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/golang.svg" alt="GoLang" height=20> and I study the creation of websites. In my free time I play, read manga, watch anime.
+I Programmer. Desktop & Web developer. Write projects in **JavaScript** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/javascript.svg" alt="JavaScript" height=20>, **Python** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/python.svg" alt="Python" height=20>, **GoLang** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/golang.svg" alt="GoLang" height=20> and study the creation of websites. In my free time I play, read manga, watch anime.
 
 ---
 
