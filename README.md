@@ -1,13 +1,13 @@
 Peace ✌️
 
-I Programmer. Desktop & Web developer. Write projects in **JavaScript** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/javascript.svg" alt="JavaScript" height=20>, **Python** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/python.svg" alt="Python" height=20>, **GoLang** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/golang.svg" alt="GoLang" height=20> and study the creation of websites. In my free time I play, read manga, watch anime.
+I'm a programmer. I write mainly in **JavaScript** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/javascript.svg" alt="JavaScript" height=20> and **Python** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/python.svg" alt="Python" height=20>, I know a little **Postgresql** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/postgresql.svg" alt="Postgresql" height=20> and **Golang** <img src="https://raw.githubusercontent.com/Redume/Redume/master/icons/golang.svg" alt="GoLang" height=20>. But I haven't decided on the direction yet. If you have any questions, you can write to me in [Telegram](https://t.me/Redddume)
 
 ---
 
 <details> 
-  <summary>Why is project "X" not being updated? Or does another one start updating / appearing altogether?</summary>
+  <summary>Why is some project not being updated?</summary>
 
 ###
 
-Either I got tired of one project and I wanted to do another, or I lost the motivation to update or maintain the project.
+The reasons may vary, but mostly it may be lack of time, lack of motivation, or burnout.
 </details>
